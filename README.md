@@ -43,6 +43,8 @@ This project is aimed at helping you better understand how the type system works
 
 > 🔥 Start the challenge in [TypeScript Playground](https://www.typescriptlang.org/play?install-plugin=%40type-challenges%2Fplayground-plugin)
 
+> ⚡️ Start the challenge in [VS Code](https://marketplace.visualstudio.com/items?itemName=YRM.type-challenges)
+
 ## Recommended Readings
 
 ### Official
@@ -102,6 +104,8 @@ This project was born from solving real-world types problem with [@hardfist](htt
 - [andnp/SimplyTyped](https://github.com/andnp/SimplyTyped)
 
 ### [Contributors](https://github.com/type-challenges/type-challenges/graphs/contributors)
+
+![Contributors](https://contrib.rocks/image?repo=type-challenges/type-challenges)
 
 ## License
 
