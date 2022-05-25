@@ -3,7 +3,7 @@
   "i18n-ally.sourceLanguage": "en",
   "i18n-ally.sortKeys": true,
   "github.copilot.enable": {
-    "typescript": false,
+    "typescript": false
   },
   "search.exclude": {
     "**/node_modules": true,
@@ -16,5 +16,6 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "prettier.semi": false,
   "typescript.format.semicolons": "remove",
-  "javascript.format.semicolons": "remove"
+  "javascript.format.semicolons": "remove",
+  "cSpell.words": ["Chainable"]
 }

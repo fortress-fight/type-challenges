@@ -1,5 +1,3 @@
-type MyParameters<T extends (...args: any[]) => any> = T extends (
-  ...args: infer T
-) => any
-  ? T
+type MyParameters<T extends Function> = T extends (...args: infer K) => any
+  ? K
   : []
